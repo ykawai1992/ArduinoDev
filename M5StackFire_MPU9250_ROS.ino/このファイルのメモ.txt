@@ -1,0 +1,6 @@
+M5Stack Grayで使用するとこれは使えなくなる。
+IMU6886だから。
+
+これはM5Stack Fire用(IMU9250)である。
+参考リンク
+https://botalab.tech/ros_m5stack_imu/
