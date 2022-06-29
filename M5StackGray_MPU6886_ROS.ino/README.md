@@ -1,4 +1,5 @@
-ROS-Noetic on WSL1 とM5Stack grayのIMUセンサ値がROS連携できたやつ
+ROS-Noetic on WSL1 とM5Stack grayのIMUセンサ値がROS連携できたやつ。
+ちゃんとrqt_plot上でもセンサ信号を取得できた。
 
 ![ROSSerial_IMU_1](https://user-images.githubusercontent.com/66663998/176362456-258ba567-1385-4cf2-9016-8dd36ba12746.PNG)
 ![ROSSerial_IMU_2](https://user-images.githubusercontent.com/66663998/176362458-5c2b9e4d-4f86-4dd0-9f02-5831580513d0.PNG)
